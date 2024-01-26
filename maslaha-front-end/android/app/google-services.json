@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "263768653544",
+    "project_id": "maslaha-f3501",
+    "storage_bucket": "maslaha-f3501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263768653544:android:b313bd84ac4f092025535d",
+        "android_client_info": {
+          "package_name": "com.example.maslaha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263768653544-rc6ta4vkqk8cia4dhf6ko466i119t6uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maslaha",
+            "certificate_hash": "7c127a458beb0d48c7c68c40d53376a161a2e123"
+          }
+        },
+        {
+          "client_id": "263768653544-l7mjtth77c526se0fo6pmcmejbbp0qkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVXWgM_Z-QBMxRnHghdTdcuA_G7fZKNhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263768653544-l7mjtth77c526se0fo6pmcmejbbp0qkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

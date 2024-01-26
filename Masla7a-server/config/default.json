@@ -1,0 +1,5 @@
+{ 
+    "jwtPrivateKey" :"mySecretKey",
+    "GEOCODER_PROVIDER": "here",
+    "GEOCODER_API_KEY": "6KOoPMk4EITwtF-evyr0-mZFv_4F0fP2c5X0G-B8KpE"
+}
